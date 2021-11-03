@@ -74,3 +74,26 @@ nav ul li a{
     font-size: 30px;
     line-height: 30px;
 }
+
+.conteudo-texto{
+    line-height: 0px;
+    margin: 45px 0px 25px;
+}
+
+.conteudo-texto{
+    position: absolute;
+    left: 13%;
+    top: 42%;
+    transform: translate(-13% -42%);
+}
+
+.conteudo-texto button{
+    width: 130px;
+    height: 42px;
+    border-radius: 10px;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 14px;
+    outline: none;
+    margin: 0px 10px;
+}
