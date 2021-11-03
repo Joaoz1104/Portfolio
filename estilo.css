@@ -157,3 +157,11 @@ button:active{
     font-weight: bold;
     line-height: 5px;
 }
+
+.conteudo-sobre p:nth-child(3),
+.conteudo-sobre p:nth-child(4){
+    color: #7e7d7d;
+    font-family: 'Calibri';
+    font-weight: bold;
+    font-size: 16px;
+}
