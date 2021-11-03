@@ -133,3 +133,27 @@ button:active{
     justify-content: space-evenly;
     align-items: center;
 }
+
+.conteudo-sobre img{
+    height: 250px;
+}
+
+.texto-sobre{
+    width: 550px;
+}
+
+.conteudo-sobre p:nth-child(1){
+    color: #403e3e;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+    line-height: 0px;
+}
+
+.conteudo-sobre p:nth-child(){
+    color: #3e3e3e;
+    font-size: 13px;
+    font-family: Arial;
+    font-weight: bold;
+    line-height: 5px;
+}
