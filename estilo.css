@@ -97,3 +97,18 @@ nav ul li a{
     outline: none;
     margin: 0px 10px;
 }
+
+.btn1{
+    border: 2px solid #373636;
+    color: #373636;
+}
+
+.btn2{
+    background-color: #0b0b0b;
+    border: none;
+    color: #ffffff;
+}
+
+button:active{
+    transform: scale(1.1);
+}
